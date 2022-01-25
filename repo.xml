@@ -1,21 +1,14 @@
 <?xml version="1.0"?>
 <extensions>
  <details>
-  <title lang="EN">Craig's LMS Plugins</title>
+  <title lang="EN">Forked LMS Plugins</title>
  </details>
  <plugins>
-  <plugin name="MaterialSkin" version="2.8.4" minTarget="7.9.0" maxTarget="*">
-   <title lang="EN">Material Skin</title>
-   <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
-   <url>https://github.com/CDrummond/lms-material/releases/download/2.8.4/lms-material-2.8.4.zip</url>
-   <sha>fccd10d3cbf12efaa5ab4cb04344e520b307f7be</sha>
-   <creator>Craig Drummond</creator>
-  </plugin>
   <plugin name="MusicSimilarity" version="0.0.31" minTarget="7.9.0" maxTarget="*">
-   <title lang="EN">Music Similarity</title>
+   <title lang="EN">Music Similarity-Mood Mix Testing</title>
    <desc lang="EN">Similarity Mixer for DSTM - using either Essentia or Musly</desc>
-   <url>https://github.com/lief-erickson/lms-musicsimilarity/releases/download/0.0.3.attribmix-test/lms-musicsimilarity-0.0.3.attribmix-test.zip</url>
-   <sha>a1ce412409731e0ed463c252c4ae40cc91893432</sha>
+   <url>https://github.com/lief-erickson/lms-musicsimilarity/releases/download/0.0.3.attribmix-test/lms-musicsimilarity-0.0.31.zip</url>
+   <sha>21e34d91bc52b1523bd407eabcde71ee5389552d</sha>
    <creator>Craig Drummond/prabbit</creator>
   </plugin>
  </plugins>
