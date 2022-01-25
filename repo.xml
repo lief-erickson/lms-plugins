@@ -15,7 +15,7 @@
    <title lang="EN">Music Similarity</title>
    <desc lang="EN">Similarity Mixer for DSTM - using either Essentia or Musly</desc>
    <url>https://github.com/lief-erickson/lms-musicsimilarity/releases/download/0.0.3.attribmix-test/lms-musicsimilarity-0.0.3.attribmix-test.zip</url>
-   <sha>7d17736d32116fef6ac8a3aa2756fe16b210fb8e</sha>
+   <sha>a1ce412409731e0ed463c252c4ae40cc91893432</sha>
    <creator>Craig Drummond</creator>
   </plugin>
  </plugins>
